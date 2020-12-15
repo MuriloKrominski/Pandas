@@ -955,19 +955,7 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -993,19 +981,7 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1048,19 +1024,7 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1110,19 +1074,7 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1179,19 +1131,7 @@ df2
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1229,19 +1169,7 @@ df3
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1276,19 +1204,7 @@ df4
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1326,19 +1242,7 @@ df5
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1381,19 +1285,7 @@ df0
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1443,19 +1335,7 @@ df1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1576,19 +1456,7 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1690,19 +1558,7 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1851,19 +1707,7 @@ dframe.sort_values(by='C1')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1964,19 +1808,7 @@ dframe.sort_values(by='C1' , ascending=False)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2078,19 +1910,7 @@ df1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2141,19 +1961,19 @@ df1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2193,19 +2013,19 @@ df5
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2261,19 +2081,19 @@ df5
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2315,19 +2135,19 @@ df12
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2373,19 +2193,19 @@ df12
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2430,19 +2250,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2619,19 +2439,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2793,19 +2613,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -2961,19 +2781,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3125,19 +2945,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3274,19 +3094,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3403,19 +3223,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3490,19 +3310,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3591,19 +3411,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3680,19 +3500,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3769,19 +3589,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3858,19 +3678,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3947,19 +3767,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -3988,19 +3808,19 @@ df11
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4047,19 +3867,19 @@ df11
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4102,19 +3922,19 @@ df13
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4166,19 +3986,19 @@ df13
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4224,19 +4044,19 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4282,19 +4102,19 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4369,19 +4189,19 @@ df.loc[1:2]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4416,19 +4236,19 @@ df.iloc[1:2]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4459,19 +4279,19 @@ df.loc[df.Rating > 2]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4506,19 +4326,19 @@ df1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4572,19 +4392,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4685,19 +4505,19 @@ dframe['2020-01-20' : '2020-01-22' ]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4758,19 +4578,19 @@ dframe.loc[:,['C1' , 'C7']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4831,19 +4651,19 @@ dframe.loc['2020-01-20' : '2020-01-22',['C1' , 'C7']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4884,19 +4704,19 @@ dframe[dframe['C1'] > 0.5]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -4967,19 +4787,19 @@ dframe[(dframe['C1'] > 0.5) & (dframe['C4'] > 0.5)]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5043,19 +4863,19 @@ dframe.iloc[:,0:3]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5129,19 +4949,19 @@ dframe[dframe['C1'].isin([10,20])]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5185,19 +5005,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5303,19 +5123,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5421,19 +5241,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5534,19 +5354,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5658,19 +5478,19 @@ dframe1[dframe1['C1'] == 0]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5742,19 +5562,19 @@ dframe1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5854,19 +5674,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -5967,19 +5787,19 @@ dframe1[dframe1['C1'] == 99]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6054,19 +5874,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6168,19 +5988,19 @@ dframe.notna()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6282,19 +6102,19 @@ dframe.isna()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6396,19 +6216,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6511,19 +6331,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6625,19 +6445,19 @@ dframe.fillna(value={'C5' : 123 , 'C6' : 789})
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6738,19 +6558,19 @@ dframe.fillna(value={'C7' : 789} , limit=1)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6851,19 +6671,19 @@ dframe.dropna()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6904,19 +6724,19 @@ dframe.dropna(axis='columns')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -6992,19 +6812,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7105,19 +6925,19 @@ dframe.dropna(subset=['C5' ,'C6'])
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7191,19 +7011,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7522,19 +7342,19 @@ dframe.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7689,19 +7509,19 @@ dframe.corr()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7804,19 +7624,19 @@ dframe.cov()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -7918,19 +7738,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8163,19 +7983,19 @@ dframe
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8376,19 +8196,19 @@ dframe.applymap(np.sqrt)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8489,19 +8309,19 @@ dframe.applymap(math.sqrt)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8601,19 +8421,19 @@ dframe.applymap(float)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8734,19 +8554,19 @@ dframe.apply(lambda x: x*x)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8849,19 +8669,19 @@ daf1
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8912,19 +8732,19 @@ daf2
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -8975,19 +8795,19 @@ pd.merge(daf1, daf2, on='id', how='inner')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9026,19 +8846,19 @@ pd.merge(daf1, daf2, on='id', how='outer')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9113,19 +8933,19 @@ pd.merge(daf1, daf2, on='id', how='left')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9182,19 +9002,19 @@ pd.merge(daf1, daf2, on='id', how='right')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9280,19 +9100,19 @@ covid.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9412,19 +9232,19 @@ covid.tail(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9620,19 +9440,19 @@ df1.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9730,19 +9550,19 @@ df1.iloc[1:4]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9791,19 +9611,19 @@ df1.loc[df1['Country/Region']== 'India']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9868,19 +9688,19 @@ display('Sorted Data Frame', df1.sort_values(['Country/Region'], ascending=True)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -9944,19 +9764,19 @@ display('Sorted Data Frame', df1.sort_values(['Country/Region'], ascending=False
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10020,19 +9840,19 @@ display('Sorted Data Frame', df1.sort_values(['Country/Region', 'Last Update'], 
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10145,19 +9965,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10275,19 +10095,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10405,19 +10225,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10538,19 +10358,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10671,19 +10491,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10804,19 +10624,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -10946,19 +10766,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11174,19 +10994,19 @@ df2.loc[df2['Type 2'] == 'Dragon']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11512,19 +11332,19 @@ df3
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11611,19 +11431,19 @@ df4
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11714,19 +11534,19 @@ df3
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -11810,19 +11630,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12043,19 +11863,19 @@ df2.loc[df2.Name.str.contains("rill")]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12204,19 +12024,19 @@ df2.loc[~df2.Name.str.contains("rill")].head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12414,19 +12234,19 @@ df2.loc[df2['Type 1'].str.contains("Grass") & df2['Type 2'].str.contains("Poison
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12702,19 +12522,19 @@ df2.loc[df2['Type 1'].str.contains('Grass|Water',regex = True)].head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12912,19 +12732,19 @@ df2.loc[df2['Type 1'].str.contains('grass|water',regex = True)].head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -12962,19 +12782,19 @@ df2.loc[df2['Type 1'].str.contains('grass|water', case = False ,regex = True)].h
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -13172,19 +12992,19 @@ df2.loc[df2['Type 1'].str.contains('grass|water',flags = re.I ,regex = True)].he
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -13384,19 +13204,19 @@ df2.loc[df2.Name.str.contains('^Wa',flags = re.I ,regex = True)].head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -13514,19 +13334,19 @@ df2.loc[df2.Name.str.contains('^Wa[a-l]+',flags = re.I ,regex = True)].head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -13612,19 +13432,19 @@ df2.loc[df2.Name.str.contains('^[x-z]',flags = re.I ,regex = True)]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -13922,19 +13742,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -14057,19 +13877,19 @@ df2.loc[df2.Name.str.match(r'(^[B|b].*)')].head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -14193,19 +14013,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -14417,19 +14237,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -14641,19 +14461,19 @@ df2.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -14780,19 +14600,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15004,19 +14824,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15224,19 +15044,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15444,19 +15264,19 @@ df2.head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15666,19 +15486,19 @@ df.head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15794,19 +15614,19 @@ df.groupby(['Type 1']).mean().head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -15982,19 +15802,19 @@ df.groupby(['Type 1']).mean().sort_values('Attack' , ascending = False).head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -16170,19 +15990,19 @@ df.groupby(['Type 1']).mean().sort_values('Defense' , ascending = False).head(10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -16358,19 +16178,19 @@ df.groupby(['Type 1']).mean().sort_values('Speed' , ascending = False).head(10)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -16570,19 +16390,19 @@ df.groupby(['Type 2']).sum().head(5)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -17857,19 +17677,19 @@ df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18068,19 +17888,19 @@ df1.head(15)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18363,19 +18183,19 @@ df6
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+
+
+
+
+
+
+
 
     .dataframe thead tr th {
         text-align: left;
-    }
-</style>
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -18437,19 +18257,19 @@ st_df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18521,19 +18341,19 @@ unst_df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
+
+
+
+
+
+
+
 
     .dataframe thead tr th {
         text-align: left;
-    }
-</style>
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr>
@@ -18623,19 +18443,19 @@ unst_df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18703,19 +18523,19 @@ df7
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18855,19 +18675,19 @@ pd.pivot_table(df7 , index= ['Year' , 'Literacy/GDP'] , aggfunc='sum')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18916,19 +18736,19 @@ pd.pivot_table(df7 , index= ['Year' , 'Literacy/GDP'] , aggfunc='mean')
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -18978,19 +18798,19 @@ df7
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19130,19 +18950,19 @@ df8
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19284,19 +19104,19 @@ df8.loc['2010']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19366,19 +19186,19 @@ df8.loc[['2010']]
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19451,19 +19271,19 @@ df8.loc['2015','Literacy']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19516,19 +19336,19 @@ df8.loc['2015','Literacy']
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19582,19 +19402,19 @@ df8
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19698,19 +19518,19 @@ df7
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19850,19 +19670,19 @@ df8
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -19978,19 +19798,19 @@ df9
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20108,19 +19928,19 @@ df9
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20236,19 +20056,19 @@ df7
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20387,19 +20207,19 @@ pd.crosstab(df7['Literacy/GDP'] , df7.Value , margins=True)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20495,19 +20315,19 @@ pd.crosstab(df7.Year , df7['Literacy/GDP'] , margins=True)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20558,19 +20378,19 @@ pd.crosstab([df7.Year , df7['Literacy/GDP']] , df7.Country, margins=True)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20656,19 +20476,19 @@ df8
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20719,19 +20539,19 @@ df9
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20782,19 +20602,19 @@ pd.concat([df8 , df9])
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20869,19 +20689,19 @@ df8.append(df9)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -20958,19 +20778,19 @@ df10
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -21016,19 +20836,19 @@ df11
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -21073,19 +20893,19 @@ pd.concat([df10,df11] , axis = 1)
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
 
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
+
+
+
+
+
+
+
+
+
+
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -21128,5 +20948,3 @@ pd.concat([df10,df11] , axis = 1)
   </tbody>
 </table>
 </div>
-
-
