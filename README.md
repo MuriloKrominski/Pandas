@@ -1,4 +1,4 @@
-# Pandas
+# Pandas - Series & Dataframes
 Esta página pretende oferecer uma visão geral de todos os objetos, funções e métodos públicos do Pandas.
 Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
 Clique no link do Google Colaboratory(Colab), para poder ver, modificar os códigos Python e os ver em execução por meio do navegador.
