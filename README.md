@@ -1,9 +1,9 @@
 # Pandas - Series & Dataframes
 Esta página pretende oferecer uma visão geral de todos os objetos, funções e métodos públicos do Pandas.
 Pandas é uma biblioteca de software criada para a linguagem Python para manipulação e análise de dados. Em particular, oferece estruturas e operações para manipular tabelas numéricas e séries temporais.
-Clique no link do Google Colaboratory(Colab), para poder ver, modificar os códigos Python e os ver em execução por meio do navegador.
+Clique no link do Google Colaboratory(Colab), para poder ver, modificar os códigos Python e os executar por meio do navegador em tempo real.
 Colab é um serviço de notebook Jupyter hospedado que não requer muita configuração para uso, enquanto fornece acesso gratuito a recursos de computação, incluindo GPUs, especialmente adequado para aprendizado de máquina, análise de dados e educação.
-Pode baixar e rodar localmente.
+Pode-se baixar e rodar localmente.
 
 # Pandas
 <a href="https://colab.research.google.com/github/MuriloKrominski/Pandas/blob/main/pandas.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
